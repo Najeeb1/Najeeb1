@@ -2,7 +2,7 @@
 
 🎯 **ML/Data Engineer | Researcher | LLM Developer**  
 📍 Based in Hildesheim, Germany  
-🌐 [LinkedIn](https://www.linkedin.com/in/nhussaini/) • [GitHub](https://github.com/Najeeb1)  
+🌐 [LinkedIn](https://www.linkedin.com/in/nhussaini/) • [GitHub](https://github.com/Najeeb1) 🌐 [Website](https://najeeb1.github.io/portfolio/)
 
 ---
 
